@@ -1,3 +1,5 @@
+v1.0.0
+
 feature1
 feature2
 feature3
