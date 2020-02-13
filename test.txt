@@ -8,4 +8,4 @@ feature5
 feature6
 feature7
 feature8 patch
-feature9 fix1
+feature9 fix1 fix2
