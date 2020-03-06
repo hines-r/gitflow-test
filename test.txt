@@ -1,4 +1,4 @@
-v1.2.2
+v1.3.0
 
 feature1
 feature2
@@ -11,3 +11,9 @@ feature8 patch
 feature9 fix1 fix2
 test
 edit edit
+1
+2
+3
+4
+5
+6
